@@ -1,0 +1,19 @@
+{
+  "name": "@socialkardia/analyst",
+  "version": "1.0.0",
+  "description": "The functions by which socialkardia gauges toxicity",
+  "main": "tmp/source/index.js",
+  "scripts": {
+    "test": "mocha --compilers js:babel-register source/**/test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/socialkardia/analyst.js.git"
+  },
+  "author": "Kurtis Rainbolt-Greene (@krainboltgreene) <me@kurtisrainboltgreene.name>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/socialkardia/analyst.js/issues"
+  },
+  "homepage": "https://github.com/socialkardia/analyst.js#readme"
+}
