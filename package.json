@@ -57,6 +57,7 @@
   "dependencies": {
     "abstraction": "^4",
     "bunyan": "^1",
-    "ramda": "0.21.0"
+    "ramda": "0.21.0",
+    "recordType": "^1.0.0"
   }
 }
