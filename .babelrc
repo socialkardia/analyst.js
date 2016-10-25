@@ -4,6 +4,12 @@
     "transform-es2015-modules-commonjs",
     "transform-exponentiation-operator",
     "transform-export-extensions",
-    "transform-object-rest-spread"
+    "transform-object-rest-spread",
+    "closure-elimination",
+    "ramda",
+    "syntax-flow",
+    "import-asserts",
+    "transform-dead-code-elimination",
+    "implicit-return"
   ]
 }

@@ -29,15 +29,23 @@
     "npm": "^3"
   },
   "devDependencies": {
-    "babel-eslint": "^6",
     "babel": "^6",
     "babel-cli": "^6",
     "babel-core": "^6",
+    "babel-eslint": "^6",
+    "babel-plugin-closure-elimination": "^1.0.6",
+    "babel-plugin-implicit-return": "^1.0.1",
+    "babel-plugin-import-asserts": "^2.1.0",
+    "babel-plugin-ramda": "^1.1.5",
+    "babel-plugin-relative-import": "^1.0.3",
+    "babel-plugin-syntax-flow": "^6.8.0",
+    "babel-plugin-transform-dead-code-elimination": "^2.1.0",
     "babel-plugin-transform-es2015-destructuring": "^6",
     "babel-plugin-transform-es2015-modules-commonjs": "^6",
     "babel-plugin-transform-exponentiation-operator": "^6",
     "babel-plugin-transform-export-extensions": "^6",
     "babel-plugin-transform-object-rest-spread": "^6",
+    "babel-plugin-typecheck": "^3.9.0",
     "chai": "^3",
     "chakram": "^1",
     "chance": "^1",
@@ -51,8 +59,8 @@
     "greenkeeper": "^2",
     "mocha": "^2",
     "npm": "^3",
-    "npm-run-all": "^2",
-    "npm-check-updates": "^2"
+    "npm-check-updates": "^2",
+    "npm-run-all": "^2"
   },
   "dependencies": {
     "abstraction": "^4",
